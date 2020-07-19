@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Hugo Zzo Theme</title>
+    <link>https://june415.github.io/en/post/</link>
+    <description>Recent content in Posts on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 19 Jul 2020 18:30:36 +0800</lastBuildDate>
+    
+        <atom:link href="https://june415.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Blog</title>
+        <link>https://june415.github.io/en/post/blog/</link>
+        <pubDate>Sun, 19 Jul 2020 18:30:36 +0800</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sun, 19 Jul 2020 18:30:36 +0800</atom:modified>
+        <guid>https://june415.github.io/en/post/blog/</guid>
+        <description>Easy Engine - Common Commands
+NGINX info - ee info &amp;ndash;nginx
+PHP info
+- ee info &amp;ndash;php
+MYSQL info
+- ee info &amp;ndash;mysql
+4. All Info
+1. ee info
+5. Easy Engine version
+1. ee -v
+6. Get site info
+1. ee site info example.com
+7. Update easy engine 1. ee update
+8. Install PHP7 stack
+1. ee stack install &amp;ndash;php7
+9. Create site
+1. ee site create example.com &amp;ndash;wp &amp;ndash;php7</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
